@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.env.*
+*.log
+*.joblib
+*.hef
+*.onnx
+data/
+sorted_data/
+live_images/
+test_img/
